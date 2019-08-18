@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js",
     "live": "nodemon index.js",
-    "test": "test"
+    "test": "mocha"
   },
   "author": "Tony S Babu",
   "license": "MIT",
